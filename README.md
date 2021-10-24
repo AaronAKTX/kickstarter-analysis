@@ -22,3 +22,18 @@ By graphing three lines of data, one for Successful campaigns, one for failed ca
 see chart below)(note: there is an increase in success rate for campaigns with goals between $35000 and $40000 but there were only a total of 6 campaigns this size so it's not clear that this increase is significant) Also, because there were no canceled play campaigns during this time, the lines of successful campaigns and failed campaigns are mirror images of each other.:
 
 <img src = "https://github.com/AaronAKTX/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png">
+
+### Challenges and Difficulties Encountered
+I did not run into too many challenges with the actual class work. I needed to learn the CountIF excel function and also trying to copy a cell values from one column to another without excel updating the column in the function was frustrating. I actually updated each individual cell in the table I created when using the CountIF function before figuring out how to use the absolute cell values in the function.  I also needed to become more comfortable with the use of pivot tables and creation of graphs based on pivot tables. 
+In a more general sense, the analysis of the Kickstarter data has a few challenges. There are a lot of unknowns, like who the campaign donation requests are being sent to and how that list varies and affects the outcome. Filtering the campaigns to only include specific categories or subcategories is helpful but it often drops the sample size down so much that the results are easily skewed by a small number of extreme values. 
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+Looking at the results of the analysis of outcomes based on launch date, I think you can draw the conclusion that campaigns that begin in May, June and July are the most successful. You can also clearly see that campaigns launched in December have the lowest success rate. It's notable also that the number of total campaigns is the highest in the spring and summer.  The chart below displays the percentage of success of Kickstarter campaigns for plays. The blue line on the top shows the percentage of success, it suggests that campaigns started in May have the highest chance of success while the campaigns starting in December have the worst odds. It also shows that the late spring and summer seem to be the best times to launch a kickstarter campaign.
+<img src = "https://github.com/AaronAKTX/kickstarter-analysis/blob/main/resources/Campaign_Success_by_Month.png">
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
