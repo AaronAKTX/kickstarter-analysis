@@ -34,7 +34,7 @@ Looking at the results of the analysis of outcomes based on launch date, I think
 <img src = "https://github.com/AaronAKTX/kickstarter-analysis/blob/main/resources/Campaign_Success_by_Month.png">
 
 - What can you conclude about the Outcomes based on Goals?
-The only conclusion that can be drawn from the outcomes based on Goals, in my opinion, is that the small the amount of the goal, the more likely the campaign is to be successful. Though, there is a spike in campaign success for campaigns with goals between $35000-$40000, I believe the sample size is too small to be relevant and this spike is different from the overall tendency of the results.
+The only conclusion that can be drawn from the outcomes based on Goals, in my opinion, is that the smaller the amount of the goal, the more likely the campaign is to be successful. Though, there is a spike in campaign success for campaigns with goals between $35000-$40000, I believe the sample size is too small to be relevant and this spike is different from the overall tendency of the results.
 
 - What are some limitations of this dataset?
 The sample size seems relatively small if you try to group the data in categories. The success of a campaign is very strongly related to the goal that is set to achieve. As this goal can be set arbitrarily by the people who launched the campaign, it's very hard to use the outcome of the campaign (successful, failed) to get meaningful data. It also seems hard without knowing the distribution of the campaign to get a reliable result based only on the outcome.
